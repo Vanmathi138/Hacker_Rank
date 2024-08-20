@@ -1,0 +1,19 @@
+
+Š
+java:S2184"BCast one of the operands of this division operation to a "double".(‘Æ®ìıÿÿÿÿ8ŞÂŞ”“2J$120cc5c4-6e62-404d-8ce8-f56a13d2376a
+ˆ
+java:S2184"@Cast one of the operands of this integer division to a "double".(‘Æ®ìıÿÿÿÿ8ßÂŞ”“2J$f4b7c0e3-8080-4960-a3ef-5dc4dfe49efe
+…
+java:S2184"BCast one of the operands of this division operation to a "double".(³Ï¦—8üöŞ”“2J$8419eecc-47e7-459a-b242-c87ca9ba4c29
+ƒ
+java:S2184"@Cast one of the operands of this integer division to a "double".(³Ï¦—8üöŞ”“2J$a90fa972-ea31-457e-9333-b533f86ba222
+…
+java:S2184!"BCast one of the operands of this division operation to a "double".(°¨8òñê”“2J$c5b64a09-637b-4508-85f6-c82caabb71a8
+ƒ
+java:S2184!"@Cast one of the operands of this integer division to a "double".(°¨8òñê”“2J$1d5ddd19-ad80-4ea7-8af8-40627b2de533
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡îë½øÿÿÿÿ8Òæ×”“2J$77cc1c05-2cd6-4fb3-ae24-ac4836242b42
+¯
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8İ–İ”“2J$b89b6ba1-8799-49e5-afd2-d804635e90d5
+|
+java:S1118":Add a private constructor to hide the implicit public one.(ŒÅüg8´è×”“2J$28a78793-bd30-48f1-ae0c-354b2995aff9
+r	java:S106$"+Replace this use of System.out by a logger.(ıŸ¤‰üÿÿÿÿ8Ë¬é”“2J$f2b693b5-f6b0-4337-b7ad-5bca7afbaf2c

@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡îë½øÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "compare".(Ìé£šüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¿¡–³
+E	java:S106	"+Replace this use of System.out by a logger.(ìÒÄ¦ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(º¤Ñ®
+@	java:S106"+Replace this use of System.out by a logger.(÷ğåŸ
+E	java:S106"+Replace this use of System.out by a logger.(‡îÁÂùÿÿÿÿ
+G
+java:S1481",Remove this unused "compare" local variable.(Ìé£šüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(±¥›®şÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(öŞêÆúÿÿÿÿ

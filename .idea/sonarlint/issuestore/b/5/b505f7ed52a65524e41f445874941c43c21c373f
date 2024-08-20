@@ -1,0 +1,12 @@
+
+Ÿ
+java:S1488-"\Immediately return this expression instead of assigning it to the temporary variable "diff".(’ğÈ8ÈÁ•”2J$e002fec8-7ede-4011-a4c5-197c6134ff99
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡îë½øÿÿÿÿ8«¼‘”2J$cd7625f7-5496-4760-bb5d-4f0773346b3b
+r	java:S106"+Replace this use of System.out by a logger.(İö¿·úÿÿÿÿ8ùÀ‘”2J$78d0e8c8-dde3-4d83-b736-13b8214b26cc
+m	java:S106	"+Replace this use of System.out by a logger.(Êğü8üÀ‘”2J$3907b082-2b64-4146-8a9e-79dd335b6c4b
+m	java:S106"+Replace this use of System.out by a logger.(®²Õ¨8‰Á‘”2J$58e71fa1-25df-4780-9656-47876494e87b
+r	java:S106"+Replace this use of System.out by a logger.(†­ÏÏúÿÿÿÿ8Á‘”2J$e3d7ecf5-e518-4f52-836f-64e90d106db7
+r	java:S106"+Replace this use of System.out by a logger.(‡Ë‹³úÿÿÿÿ8˜Á‘”2J$4d0d7949-f5e8-4ee3-a522-73f312a2c6a4
+r	java:S106"+Replace this use of System.out by a logger.(úº‘üÿÿÿÿ8šÁ‘”2J$226a1843-1d5d-4190-a135-ae15f1675c8a
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Íß–”2J$fde96ee9-920f-4b1c-9b29-f044bf7f6686
+r	java:S106"+Replace this use of System.out by a logger.(Ñ¥¥‡ıÿÿÿÿ8à¸”2J$c69696c5-7930-416f-a4bc-c12206db5092
