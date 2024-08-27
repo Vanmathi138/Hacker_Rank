@@ -13,7 +13,6 @@ public class BirthdayCakeCandles {
         int result = solution(arr);
         System.out.println(result);
     }
-
     private static int solution(List<Integer> arr) {
         int max = Integer.MIN_VALUE;
         int count = 0;
