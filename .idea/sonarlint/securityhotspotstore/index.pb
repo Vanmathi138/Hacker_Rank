@@ -19,3 +19,5 @@ F
 src/ReverseString.java,2\2\2276cf3f7f2defc10259f641955b4758c5c356d5
 M
 src/LowestCommonAncestor.java,f\4\f411c9dc2e6481c1241ed002c508305f39adeb1f
+A
+src/NewClass.java,5\6\56176788c268853fa17388e47c091726a171c725
